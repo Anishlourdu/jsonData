@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px black solid;
+}
+
+.table-box {
+  padding-top: 100px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #cf004f;
+}
+
+.container {
+  border-left: 2px solid #cf004f;
+  border-right: 2px solid #cf004f;
+  border-bottom: 2px solid #cf004f;
+  background-color: #FFFAFA;
+}
+
+.search {
+  float: right;
+}
